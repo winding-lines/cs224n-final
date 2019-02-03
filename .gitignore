@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+bin
+SQuAD-1.1/
+pyvenv.cfg
